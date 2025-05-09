@@ -39,6 +39,10 @@ pip install -r requirements.txt
 
 ## Data Source
 Data preprocessing has already been completed.
+
+To connect to data sources and to set up connection between Python notebook and Bigquery credential files should be used which can be found in Capstone_MarinaKochinyan.ZIP file's credentials folder.
+For the first request use servicetitan-436706-73e8f924b15c.json and for the second one servicetitan-436706-38069a01410a.json
+
 The notebook starts by connecting to the following Google Sheet:
 
 "Capstone Data Sheet - BLS + IBIS"
